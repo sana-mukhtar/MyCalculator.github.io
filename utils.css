@@ -1,0 +1,55 @@
+
+.heading{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: black;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.btn{
+    padding: 20px;
+}
+
+.flex{
+   display: flex;
+}  
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    margin: 5px 0;
+}
+
+.btn{
+    width: 55px;
+    padding: 20px;
+    margin: 0  3px;
+    border: 2px solid black;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    font-style: initial;
+    background-color: #3b3a3a;
+    color: white;
+    
+}
+.orange{
+    background-color: #ec851d;
+    color: white;
+}
+
+.grey{
+    background-color: grey;
+}
